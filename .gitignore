@@ -1,0 +1,9 @@
+*.csv
+*.pt
+checkpoints/
+.vscode
+.venv
+__pycache__/
+.ipynb_checkpoints/
+libtorch/
+build/
